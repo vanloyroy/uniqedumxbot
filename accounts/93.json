@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vanloyroycloud",
+  "private_key_id": "f421778a2c19dafa43c65ec6c07e374d12ba6e95",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCPT1SGQv7ERdgs\nOBpgepEGpNZaOsdGGHddpiEQbeJQ31AijIyS3MtAzO1cDMWSJObwg6PiHnxOETCH\nGtmzvWFMmtNBHKJAXYUm7Kn7nyFITvFJaM8OjJ39Ny8FYzuKSwfn/G9sSnK7ml9/\nsV8TyJeECSsBxvtd4DHUjzKTYLIfNlx8q/foG+h88wqD8R2DQAhU6ts+QY0x32rh\nvTAnFZpGbMDsA6ALLcc8WAKwrzmyTqK09KUslewXTXeFS4Qgwob67zxmpGLYkJOO\n4OZ78l+aB5jFmJCccwZXxVkV/vH4MHW2Vn8a7D1u7hwOC/RhbTaAO2fV01i9+lIS\nqZqm6yb5AgMBAAECggEACfLKXdWpxOtKUeuFHTx0896eiL361mldY/Fj6zWNl+qg\nr/1Mxucv7uwq8BBs6LPKGlkxF8HhBDRaR468HSeg6QX4c1UvCEPVufmE5VRLJa9h\nPaTadtqZHxplF70nRXbm8hpKi9xxMYfKaF1iScfLiN1wEFwFWCN3ohdcvfFg/ByZ\n14//s/eRBiKJAP2F3MxMvtuOCg/mNmqVy7IpSs9fWwebAxCBoc2Rm2iB9WfCap/A\n1ExiLVXM6BWrOAysgjaOnOicmOc41HQJx6avwXcT0ooAbwT0C9432QhgDz1KSBnP\n8b7WpoyePy5XVQKoMDDIv2kni9nqkyuPNVzEigJZJwKBgQDJZ/IhcLCnAorCzK+m\nJ+x7+cVs4Mmw0eEfvLno3Oy++WlNqZ7Zk6h2/DifqlZ7uIGYgeAO5HKtSOpYFff/\nOHePJb2huI+2kD9Iw7lEnYTpAYiUrdXRMFC/beoBpe4SDcQlYi/D0QYvZsuFIhwC\nBpeu1+1mrZKzp+d4/alFzuYFWwKBgQC2J/N4qpwDoE1DROK3ShlAC5BLIjD5Mg9x\npUEeqhcttrDJkV4RbdvyMlR8J3o0X88KQL31/A/f+D9uOoXgojusJtQq7Vabs320\nQslbd3aI4HmsAEY/MXxaXmhK4hPFeZi8gR+I7vOK/Y0p/c25MXL6A9yCsLWMvp9j\nkRPrPNyxOwKBgQCNFG3sdLaZVlOC3sRPXHnv4eckPFWrsWjDxXxonJCNucHEsANg\nn2kLZ+P2G+iWo4jMHnWnmOinb4MQDtt4AMLnF+W8qb6pgGOEAe3+HWTjnrpgg2Ba\nN0DoxwJ7AxM/vDrggOW6gemWPKhlap454QpRZFmcagtwIzYmb3EqQCKqLwKBgQCQ\nQ5PQPU7SkGKgpC3qfAUDdCUTXEDtG3ifyQGKB6vTyJy7ByY5J4jKiJHgwmNGl5qh\nxCSubLMl7rZN1ouxHMulzBq85LtzFPS5jytqBXMbdKzoTE9WPRr/d0WiCOsfuu38\nXUdca+L2cVkbqKcFxOQKnoRF/S3MCiyx7nSYGduvgQKBgEobXSAK1yFmdarwSupu\npf4kQBdEXIUjNXJDbr567ZfqpDyT1lTPKZkH3fDq9cw5d01qYg6hJccWpETHfFDb\n6ZQYY79Z1lp/Fo+wYz+EuxEDqdmjpFx7lSPTelAik19V7IhNGZNdWgSwvGL0DzM6\nftQj56tkEefBvqZVXM/h1RYG\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-dagpc8n8rx2mk45elkkbrrxyeg@vanloyroycloud.iam.gserviceaccount.com",
+  "client_id": "103992881765108744584",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-dagpc8n8rx2mk45elkkbrrxyeg%40vanloyroycloud.iam.gserviceaccount.com"
+}
